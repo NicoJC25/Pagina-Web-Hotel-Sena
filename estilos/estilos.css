@@ -1,0 +1,85 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 1200px;
+    background-color: rgb(238, 238, 238);
+}
+
+body header .cab_logo {
+    width: 71%;
+    height: 80px;
+    float: left;
+    background-color: rgb(132, 184, 73);
+}
+
+body header .cab_logo .caj_logo {
+    width: 25%;
+    height: 80px;
+    float: left;
+    margin-left: 2%;
+    background-color: rgb(132, 184, 73);
+}
+
+body header .cab_logo .caj_logo img {
+    width: 25%;
+    height: 80px;
+}
+
+body header .cab_InicioS {
+    width: 10%;
+    height: 80px;
+    float: left;
+    background-color: rgb(132, 184, 73);
+}
+
+body header .cab_InicioS {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    padding-top: 27px;
+}
+
+body header .cab_Registro {
+    width: 12%;
+    height: 80px;
+    float: left;
+    background-color: rgb(132, 184, 73);
+}
+
+body header .cab_Registro {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    padding-top: 27px;
+}
+
+body header .cab_Ayuda {
+    width: 7%;
+    height: 80px;
+    float: left;
+    background-color: rgb(132, 184, 73);
+}
+
+body header .cab_Ayuda {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    padding-top: 22px;
+}
+
+body section .caja_cal {
+    width: 60%;
+    height: 900px;
+}
+
+body section .caja_cal .caja_entrada {
+    width: 20%;
+    height: 100px;
+    margin-left: 400px;
+    background-color: rgb(195, 255, 127);
+}
